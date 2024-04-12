@@ -201,7 +201,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Marketing View
 
-![Marketing View.gif](https://github.com/Satyasrinivas-d/BI-360/assets/67457557/b93390c6-d748-487b-9a15-6f935313ec24)
+![Marketing View.gif](https://github.com/Satyasrinivas-d/BI-360/blob/main/Marketing.gif)
 
 
 ## Supply chain View
